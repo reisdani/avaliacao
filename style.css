@@ -15,5 +15,23 @@ img{
     width: 300px;
     height: 300px;
     margin: 130px;
-    margin-left: 130;
-}     
+    margin-left: 130px;
+}
+.cabecalho{
+    background-color: aquamarine;
+    display: flex;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 600px;
+    list-style: none;
+}    
+.item_lista_cabecalho{
+    padding-left: 30px;
+    list-style: none;
+    font-size: 30px;
+}
+        .logo_cabecalho{
+            width: 100px;
+            height: 100px;
+        }
